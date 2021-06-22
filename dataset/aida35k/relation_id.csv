@@ -1,0 +1,17 @@
+0,hasGridType
+1,hasCountry
+2,hasCitationByYear
+3,hasAffiliation
+4,hasEntityType
+5,hasYear
+6,hasCsoEnhancedTopic
+7,hasReference
+8,hasType
+9,hasAuthor
+10,hasConfSeries
+11,hasConfName
+12,hasJourName
+13,hasIndustrialSector
+14,hasPaper
+15,workedIn
+16,hasNetworkIn
